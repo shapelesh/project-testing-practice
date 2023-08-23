@@ -93,4 +93,4 @@ Test-driven development is a software development process relying on software re
 
 ## Tests
 
-The repo has a 'tests' folder that contains the tests used to _test_ each function.
+The repo has a 'tests' folder that contains the tests used to **_test_** each function.
